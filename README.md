@@ -9,3 +9,6 @@ Analyze historical food order data to:
 - Understand order trends across weekdays and weekends.
 - Explore relationships between customer ratings, preparation time, and delivery time.
 - Provide data-driven insights to optimize service and operations.
+
+
+Check out the [notebook](https://github.com/kachiann/FoodHub-Order-Analysis/blob/main/FDS_FoodHub_Project.ipynb).
